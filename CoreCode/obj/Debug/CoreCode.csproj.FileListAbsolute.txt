@@ -1,0 +1,8 @@
+D:\dev\git\XamarinOsxPcDemo\CoreCode\obj\Debug\CoreCode.csprojResolveAssemblyReference.cache
+D:\dev\git\XamarinOsxPcDemo\CoreCode\bin\Debug\CoreCode.dll.config
+D:\dev\git\XamarinOsxPcDemo\CoreCode\bin\Debug\CoreCode.dll
+D:\dev\git\XamarinOsxPcDemo\CoreCode\bin\Debug\CoreCode.pdb
+D:\dev\git\XamarinOsxPcDemo\CoreCode\bin\Debug\nunit.framework.dll
+D:\dev\git\XamarinOsxPcDemo\CoreCode\bin\Debug\nunit.framework.xml
+D:\dev\git\XamarinOsxPcDemo\CoreCode\obj\Debug\CoreCode.dll
+D:\dev\git\XamarinOsxPcDemo\CoreCode\obj\Debug\CoreCode.pdb
